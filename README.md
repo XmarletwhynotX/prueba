@@ -5,3 +5,5 @@ Para instalar las dependencias: ```npm install en la carpeta de cliente y servid
 Para ejecutar el cliente: ```npm run desarrollo```
 
 Para ejecutar el servidor: ```npm run desarrollo```
+
+Que onda
