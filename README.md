@@ -1,4 +1,4 @@
-## Archivo de prueba
+## Archivo de prueba modificado
 
 Para instalar las dependencias: ```npm install en la carpeta de cliente y servidor```
 
